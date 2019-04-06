@@ -1,0 +1,3 @@
+[submodule "Launchpad.Net"]
+	path = Launchpad.Net
+	url = https://github.com/RogueException/Launchpad.Net

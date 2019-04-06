@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaunchpadVisualizer", "LaunchpadVisualizer.csproj", "{8CC0DD11-608D-4F56-BCA5-AF237C145ED6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Launchpad.Net", "Launchpad.Net\src\Launchpad.Net\Launchpad.Net.csproj", "{FFDE5B2E-9A11-439E-9982-81994F2DD85F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CC0DD11-608D-4F56-BCA5-AF237C145ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC0DD11-608D-4F56-BCA5-AF237C145ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC0DD11-608D-4F56-BCA5-AF237C145ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC0DD11-608D-4F56-BCA5-AF237C145ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFDE5B2E-9A11-439E-9982-81994F2DD85F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFDE5B2E-9A11-439E-9982-81994F2DD85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFDE5B2E-9A11-439E-9982-81994F2DD85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFDE5B2E-9A11-439E-9982-81994F2DD85F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5E88F4E-B986-45B1-B206-C45EE05537D9}
+	EndGlobalSection
+EndGlobal
